@@ -121,3 +121,13 @@ header {
     font-weight: 400;
     font-size: 23pt;
 }
+
+.contacto {
+    height: 723px;
+}
+
+.contacto h3 {
+    font-family: 'Oswald', sans-serif;
+    font-weight: 700;
+    font-size: 52pt;
+}
