@@ -3,6 +3,17 @@ body {
     font-family: 'Oswald', sans-serif;
 }
 
+header {
+    background-image: url('../img/bg_hero.png');
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 737px;
+}
+
+.yo {
+    padding-top: 475px;
+}
+
 .lineas {
     margin-left: 35%;
     margin-right: 35%;
