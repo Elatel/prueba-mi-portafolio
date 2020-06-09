@@ -26,9 +26,24 @@ header {
     font-size: 72pt;
 }
 
-
 .lineas {
     margin-left: 35%;
     margin-right: 35%;
 }
 
+.texto {
+    margin-top: 84px;
+    padding-left: 100px;
+    padding-right: 100px;
+}
+
+.texto h3 {
+    font-family: 'Open Sans', sans-serif;
+    font-weight: 600;
+    font-size: 25pt;
+}
+
+.linea-texto {
+    margin-left: 45%;
+    margin-right: 45%;
+}
