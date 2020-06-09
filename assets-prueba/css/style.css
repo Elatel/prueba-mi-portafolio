@@ -48,11 +48,19 @@ header {
     margin-right: 45%;
 }
 
+.titulo-lorem {
+    font-family: 'Open Sans', sans-serif;
+    font-weight: 600;
+    font-size: 25pt;
+    color: #373A3C;
+}
+
 .lorem {
     text-align: left;
     font-family: 'Open Sans', sans-serif;
     font-weight: 400;
     font-size: 16pt;
+    color: #373A3C;
 }
 
 .experiencia {
@@ -60,7 +68,27 @@ header {
     height: 431px;
 }
 
+.experiencia h3 {
+    font-family: 'Oswald', sans-serif;
+    font-weight: 700;
+    font-size: 52pt;
+    color: #373A3C;
+}
+
 .fab {
     color: #660066;
 }
 
+.experiencia h5 {
+    font-family: 'Oswald', sans-serif;
+    font-weight: 600;
+    font-size: 18pt;
+    color: #373A3C;
+}
+
+.experiencia p {
+    font-family: 'Oswald', sans-serif;
+    font-weight: 300;
+    font-size: 25pt;
+    color: #373A3C;
+}
