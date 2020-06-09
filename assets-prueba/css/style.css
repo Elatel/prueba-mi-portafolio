@@ -11,8 +11,21 @@ header {
 }
 
 .yo {
-    padding-top: 475px;
+    padding-top: 230px;
 }
+
+.soy {
+    font-family: 'Oswald', sans-serif;
+    font-weight: 200;
+    font-size: 72pt;
+}
+
+.nombre {
+    font-family: 'Oswald', sans-serif;
+    font-weight: 700;
+    font-size: 72pt;
+}
+
 
 .lineas {
     margin-left: 35%;
