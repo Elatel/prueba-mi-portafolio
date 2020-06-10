@@ -4,9 +4,9 @@ body {
 }
 
 header {
-    background-image: url('../img/bg_hero.png');
+    background-image: url('../img/hero-background.jpg');
     background-repeat: no-repeat;
-    background-size: cover;
+    background-size: 100%;
     height: 737px;
 }
 
@@ -91,8 +91,14 @@ header {
 .experiencia h5 {
     font-family: 'Oswald', sans-serif;
     font-weight: 600;
-    font-size: 18pt;
+    font-size: 25pt;
     color: #373A3C;
+}
+
+.linea-texto {
+    margin-left: 30%;
+    margin-right: 30%;
+    margin-bottom: 35px;
 }
 
 .experiencia p {
@@ -100,23 +106,24 @@ header {
     font-weight: 300;
     font-size: 25pt;
     color: #373A3C;
+    margin-bottom: 35px;
 }
 
 .trabajos {
     background-color: #660066;
-    height: 1150px;
+    height: 1200px;
 }
 
 .trabajos h5 {
     font-family: 'Oswald', sans-serif;
     font-weight: 700;
-    font-size: 52pt;
-    padding-top: 53px;
+    font-size: 35pt;
+    padding-top: 61px;
     padding-bottom: 10px;
 }
 
 .cartas {
-    margin-left: 10%;
+    margin-left: 12.5%;
     text-align: left;
     font-family: 'Open Sans', sans-serif;
     font-weight: 300;
@@ -173,7 +180,7 @@ header {
     }
 
     .yo {
-        padding-top: 170px;
+        padding-top: 140px;
     }
     
     .soy {
@@ -181,54 +188,17 @@ header {
         font-weight: 200;
         font-size: 40pt;
     }
-    
+
     .nombre {
         font-family: 'Oswald', sans-serif;
         font-weight: 700;
-        font-size: 40pt;
-    }
-    
-    .lineas {
-        margin-left: 20%;
-        margin-right: 20%;
-    }
-    
-    .texto {
-        margin-top: 84px;
-        padding-left: 100px;
-        padding-right: 100px;
-    }
-    
-    .texto h3 {
-        font-family: 'Open Sans', sans-serif;
-        font-weight: 600;
-        font-size: 25pt;
-    }
-    
-    .linea-texto {
-        margin-left: 45%;
-        margin-right: 45%;
-    }
-    
-    .titulo-lorem {
-        font-family: 'Open Sans', sans-serif;
-        font-weight: 600;
-        font-size: 25pt;
-        color: #373A3C;
-    }
-    
-    .lorem {
-        text-align: left;
-        font-family: 'Open Sans', sans-serif;
-        font-weight: 400;
-        font-size: 16pt;
-        color: #373A3C;
+        font-size: 60pt;
     }
     
     .experiencia {
         margin-top: 47.5px;
         margin-bottom: 88px;
-        height: 431px;
+        height: 679px;
     }
     
     .iconos {
@@ -238,7 +208,7 @@ header {
     .experiencia h3 {
         font-family: 'Oswald', sans-serif;
         font-weight: 700;
-        font-size: 52pt;
+        font-size: 35pt;
         color: #373A3C;
     }
     
@@ -253,7 +223,7 @@ header {
     .experiencia h5 {
         font-family: 'Oswald', sans-serif;
         font-weight: 600;
-        font-size: 18pt;
+        font-size: 25pt;
         color: #373A3C;
     }
     
@@ -272,8 +242,8 @@ header {
     .trabajos h5 {
         font-family: 'Oswald', sans-serif;
         font-weight: 700;
-        font-size: 52pt;
-        padding-top: 53px;
+        font-size: 35pt;
+        padding-top: 61px;
         padding-bottom: 10px;
     }
     
@@ -290,7 +260,7 @@ header {
         text-align: left;
         font-family: 'Oswald', sans-serif;
         font-weight: 400;
-        font-size: 23pt;
+        font-size: 17pt;
     }
     
     .contacto {
