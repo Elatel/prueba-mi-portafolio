@@ -176,6 +176,7 @@ header {
     header {
         background-repeat: no-repeat;
         background-size: cover;
+        background-position: center;
         height: 507px;
     }
 
@@ -236,7 +237,7 @@ header {
     
     .trabajos {
         background-color: #660066;
-        height: 2800px;
+        height: 3200px;
         padding-bottom: 100px;
     }
     
