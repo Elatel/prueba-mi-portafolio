@@ -65,7 +65,12 @@ header {
 
 .experiencia {
     margin-top: 47.5px;
+    margin-bottom: 88px;
     height: 431px;
+}
+
+.iconos {
+    font-size: 150px;
 }
 
 .experiencia h3 {
@@ -76,6 +81,10 @@ header {
 }
 
 .fab {
+    color: #660066;
+}
+
+.fas {
     color: #660066;
 }
 
@@ -130,4 +139,190 @@ header {
     font-family: 'Oswald', sans-serif;
     font-weight: 700;
     font-size: 52pt;
+}
+
+.pie {
+    background-color: #660066;
+    height: 218px;
+}
+
+.pie h5 {
+    font-family: 'Oswald', sans-serif;
+    font-weight: 700;
+    font-size: 40pt;
+    padding-left: 284px;
+    padding-top: 84px;
+}
+
+.social i {
+    color: #ffffff;
+    font-size: 50px;
+}
+
+.social {
+    padding-top: 92px;
+    padding-left: 460px;
+}
+
+@media (max-width: 767.98px) {
+
+    header {
+        background-repeat: no-repeat;
+        background-size: cover;
+        height: 507px;
+    }
+
+    .yo {
+        padding-top: 170px;
+    }
+    
+    .soy {
+        font-family: 'Oswald', sans-serif;
+        font-weight: 200;
+        font-size: 40pt;
+    }
+    
+    .nombre {
+        font-family: 'Oswald', sans-serif;
+        font-weight: 700;
+        font-size: 40pt;
+    }
+    
+    .lineas {
+        margin-left: 20%;
+        margin-right: 20%;
+    }
+    
+    .texto {
+        margin-top: 84px;
+        padding-left: 100px;
+        padding-right: 100px;
+    }
+    
+    .texto h3 {
+        font-family: 'Open Sans', sans-serif;
+        font-weight: 600;
+        font-size: 25pt;
+    }
+    
+    .linea-texto {
+        margin-left: 45%;
+        margin-right: 45%;
+    }
+    
+    .titulo-lorem {
+        font-family: 'Open Sans', sans-serif;
+        font-weight: 600;
+        font-size: 25pt;
+        color: #373A3C;
+    }
+    
+    .lorem {
+        text-align: left;
+        font-family: 'Open Sans', sans-serif;
+        font-weight: 400;
+        font-size: 16pt;
+        color: #373A3C;
+    }
+    
+    .experiencia {
+        margin-top: 47.5px;
+        margin-bottom: 88px;
+        height: 431px;
+    }
+    
+    .iconos {
+        font-size: 150px;
+    }
+    
+    .experiencia h3 {
+        font-family: 'Oswald', sans-serif;
+        font-weight: 700;
+        font-size: 52pt;
+        color: #373A3C;
+    }
+    
+    .fab {
+        color: #660066;
+    }
+    
+    .fas {
+        color: #660066;
+    }
+    
+    .experiencia h5 {
+        font-family: 'Oswald', sans-serif;
+        font-weight: 600;
+        font-size: 18pt;
+        color: #373A3C;
+    }
+    
+    .experiencia p {
+        font-family: 'Oswald', sans-serif;
+        font-weight: 300;
+        font-size: 25pt;
+        color: #373A3C;
+    }
+    
+    .trabajos {
+        background-color: #660066;
+        height: 1150px;
+    }
+    
+    .trabajos h5 {
+        font-family: 'Oswald', sans-serif;
+        font-weight: 700;
+        font-size: 52pt;
+        padding-top: 53px;
+        padding-bottom: 10px;
+    }
+    
+    .cartas {
+        margin-left: 10%;
+        text-align: left;
+        font-family: 'Open Sans', sans-serif;
+        font-weight: 300;
+        font-size: 16pt;
+        color: #373A3C;
+    }
+    
+    .cartas h5 {
+        text-align: left;
+        font-family: 'Oswald', sans-serif;
+        font-weight: 400;
+        font-size: 23pt;
+    }
+    
+    .contacto {
+        height: 723px;
+    }
+    
+    .contacto h3 {
+        font-family: 'Oswald', sans-serif;
+        font-weight: 700;
+        font-size: 52pt;
+    }
+    
+    .pie {
+        background-color: #660066;
+        height: 218px;
+    }
+    
+    .pie h5 {
+        font-family: 'Oswald', sans-serif;
+        font-weight: 700;
+        font-size: 40pt;
+        padding-left: 284px;
+        padding-top: 84px;
+    }
+    
+    .social i {
+        color: #ffffff;
+        font-size: 50px;
+    }
+    
+    .social {
+        padding-top: 92px;
+        padding-left: 460px;
+    }
 }
